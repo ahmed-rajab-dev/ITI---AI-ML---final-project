@@ -14,3 +14,4 @@ dist/
 .ipynb_checkpoints/
 *.joblib
 *.pkl
+!house_price.pkl

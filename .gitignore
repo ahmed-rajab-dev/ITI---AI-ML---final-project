@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.log
+.env
+
+# the data
+notebooks/data/
+
+# frontend
+node_modules/
+dist/
+
+# model files
+.ipynb_checkpoints/
+*.joblib
+*.pkl
